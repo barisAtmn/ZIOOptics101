@@ -88,3 +88,4 @@ trait Traversal[S, A] {
 ```
 A Traversal is an optic that accesses zero or more values in a collection, such as a Chunk.
 
+- `>>>` for composing lens
